@@ -1,0 +1,32 @@
+h1{
+    color:rgb(255, 127, 127);
+    font-size: 15px;
+    font-family: 'Courier New' , Courier , monospace;
+    text-align: center 
+    margin-top 30px;
+
+}
+h2{
+    color:rgb(127, 255, 144);
+    font-size: 60px;
+    font-family: 'Courier New' , Courier , monospace;
+    text-align: center 
+    margin-top 20px;
+
+}
+h3{
+    color:rgb(182, 127, 255);
+    font-size: 20px;
+    font-family: 'Courier New' , Courier , monospace;
+    text-align: center 
+    margin-top 15px;
+
+}
+h4{
+    color:rgb(127, 219, 255);
+    font-size: 17px;
+    font-family: 'Courier New' , Courier , monospace;
+    text-align: center 
+    margin-top 10px;
+
+}
